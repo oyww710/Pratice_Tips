@@ -22,6 +22,7 @@ select * from table where column REGEXP 'bb*'
 
 匹配1个或N个a
 
+![image](https://user-images.githubusercontent.com/23666146/117550948-f3fa9280-aff7-11eb-9ca1-c2fb508e7a78.png)
 
 
 
